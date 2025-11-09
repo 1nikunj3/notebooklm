@@ -20,4 +20,4 @@
 
 **Privacy.** Only derived screenshots/notes are included; no personal data or original PDFs.
 
-**Run info.** NotebookLM tested on [date]; source: Week-5 lecture PDF (governance, security, DevOps).
+**Run info.** source: Week-5 lecture PDF (governance, security, DevOps).
