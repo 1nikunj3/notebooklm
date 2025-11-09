@@ -1,0 +1,6 @@
+feature,prompt_or_action,items_tested,correct,citation_ok,notes,screenshot
+Q&A,Explain CIA triad; cite slides,10,9,9,Availability missed HA/backup nuance,screenshots/qna_citations.png
+StudyGuide,Generate Study Guide from Week-5 PDF,1,,,Omitted 'non-repudiation' once,screenshots/study_guide_excerpt.png
+MindMap,Create Mind Map for Week-5,1,,,Clusters OK; no citations on edges,screenshots/mindmap.png
+Flashcards,Generate 10 flashcards,10,8,,Two cards too generic,screenshots/flashcards_sample.png
+Audio,Create Audio Overview,1,,,Aligned with guide; no citations by design,artifacts/audio_notes.txt
