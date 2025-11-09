@@ -13,10 +13,9 @@
 
 **Artifacts.**
 - Screenshots: 
-  – Q&A with citations
-  – Mind Map  
-  – Flashcards sample
-  – Study guide excerpt
+  – Q&A with citations : 2.png
+  – Mind Map  : 4.png
+  – Study guide excerpt : 3.png
 - Documents
   – Study guide excerpt (Doc/PDF)
   – Audio notes
