@@ -12,14 +12,14 @@
 - Audio Overview: aligned with guide; no citations by design.
 
 **Artifacts.**
-- Screenshots: [/screenshots](./screenshots)  
-  – Q&A with citations: [`qna_citations.png`](./screenshots/qna_citations.png)  
-  – Mind Map: [`mindmap.png`](./screenshots/mindmap.png)  
-  – Flashcards sample: [`flashcards_sample.png`](./screenshots/flashcards_sample.png)  
-  – Study guide excerpt: [`study_guide_excerpt.png`](./screenshots/study_guide_excerpt.png)
-- Documents: [/artifacts](./artifacts)  
-  – Study guide excerpt (Doc/PDF): [`study_guide_excerpt.docx`](./artifacts/study_guide_excerpt.docx)  
-  – Audio notes (optional): [`audio_notes.txt`](./artifacts/audio_notes.txt)
+- Screenshots: 
+  – Q&A with citations
+  – Mind Map  
+  – Flashcards sample
+  – Study guide excerpt
+- Documents
+  – Study guide excerpt (Doc/PDF)
+  – Audio notes
 
 **Privacy.** Only derived screenshots/notes are included; no personal data or original PDFs.
 
