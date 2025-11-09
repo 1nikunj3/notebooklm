@@ -16,9 +16,7 @@
   – Q&A with citations : 2.png
   – Mind Map  : 4.png
   – Study guide excerpt : 3.png
-- Documents
-  – Study guide excerpt (Doc/PDF)
-  – Audio notes
+
 
 **Privacy.** Only derived screenshots/notes are included; no personal data or original PDFs.
 
